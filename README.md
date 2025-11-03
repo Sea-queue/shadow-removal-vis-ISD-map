@@ -1,4 +1,4 @@
-# Shadow Removal via Illuminant Spectral Direction(ISD) estimation
+# Shadow Removal via Illuminant Spectral Direction(ISD) Estimation
 
 We aim to recover the true scene appearance by eliminating cast shadows while preserving material color. This would improve the downstream computer vision tasks such as autonomous driving and robotic vision.
 
@@ -6,7 +6,7 @@ We aim to recover the true scene appearance by eliminating cast shadows while pr
 
 ## 📌 Overview
 
-- We developed an annotation tool for labeling raw 16-bit linear images.
+- Annotation tool: We developed the tool to labele raw 16-bit linear images.
 - Customized Model: MambaVision Backbone + Feature Pytramid Network like head for ISD Map estimation.
 - End-to-End pipeline: Annotation tool + Customized Model + Training & Evalutaion.
 
