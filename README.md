@@ -7,8 +7,8 @@ We aim to recover the true scene appearance by eliminating cast shadows while pr
 ## 📌 Overview
 
 - Annotation tool: We developed the tool to labele raw 16-bit linear images.
-- Customized Model: MambaVision Backbone + Feature Pytramid Network like head for ISD Map estimation.
-- End-to-End pipeline: Annotation tool + Customized Model + Training & Evalutaion.
+- Customized model: MambaVision Backbone + Feature Pytramid Network like head for ISD map estimation.
+- End-to-End pipeline: annotation tool + customized model + training & evalutaion.
 
 ---
 
